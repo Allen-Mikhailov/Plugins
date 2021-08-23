@@ -3,6 +3,6 @@ print("Dev is Awesome")
 
 local Data = 10
 
-print(script)
+--print(script)
 
 return Data
